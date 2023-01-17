@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thank you for taking the time to visit my github website.
+
+This is my 😄: https://profile-summary-for-github.com/user/favoritekk
+
+Mail me 📫: vankhiem583@gmail.com
+
+[![Khiem's GitHub stats](https://github-readme-stats.vercel.app/api?username=favoritekk)](https://github.com/anuraghazra/github-readme-stats)
